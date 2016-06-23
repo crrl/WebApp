@@ -1,0 +1,742 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"permission",
+				"permission"
+			],
+			[
+				"permissionTo",
+				"permissionsToDisable"
+			],
+			[
+				"permissio",
+				"permissionsToCreate"
+			],
+			[
+				"permii",
+				"permissionsToCreate"
+			],
+			[
+				"newPer",
+				"newPermissions"
+			],
+			[
+				"permissionstocrea",
+				"permissionsToCreateArray"
+			],
+			[
+				"permissionsT",
+				"permissionsToCreate"
+			],
+			[
+				"permis",
+				"permissionsToActivate"
+			],
+			[
+				"permiss",
+				"permissionsToActivate"
+			],
+			[
+				"permi",
+				"permissionsToDisable"
+			],
+			[
+				"crea",
+				"createPermissions"
+			],
+			[
+				"permissiont",
+				"permissionsToDisable"
+			],
+			[
+				"newPermi",
+				"newPermission"
+			],
+			[
+				"current",
+				"currentPermissions"
+			],
+			[
+				"permissionsTo",
+				"permissionsToActivate"
+			],
+			[
+				"currentTr",
+				"currentTruePermissions"
+			],
+			[
+				"currentPer",
+				"currentPermissionsContainer"
+			],
+			[
+				"currentFalse",
+				"currentFalsePermissionsContainer"
+			],
+			[
+				"currentpermi",
+				"currentPermissionsContainer"
+			],
+			[
+				"currentTrue",
+				"currentTruePermissionsContainer"
+			],
+			[
+				"curr",
+				"currentTruePermissions"
+			],
+			[
+				"cur",
+				"currentPermissions"
+			],
+			[
+				"curre",
+				"currentFunction"
+			],
+			[
+				"permissionsto",
+				"permissionsToAddOrActivate"
+			],
+			[
+				"new",
+				"newPermissions"
+			],
+			[
+				"area",
+				"areaItems"
+			],
+			[
+				"cu",
+				"currentPermissions"
+			],
+			[
+				"clie",
+				"clientApps"
+			],
+			[
+				"clientApp",
+				"clientAppsIds"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"reje",
+				"rejectPromise"
+			],
+			[
+				"chec",
+				"checkAppStatus"
+			],
+			[
+				"promi",
+				"Promise"
+			],
+			[
+				"che",
+				"checkAppStatus"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"creat",
+				"createPermission"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"pag",
+				"paginatorOptions"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"mess",
+				"messageNumber"
+			],
+			[
+				"message",
+				"messageLength"
+			],
+			[
+				"co",
+				"concat"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"uibm",
+				"uibModalInstance"
+			],
+			[
+				"skuM",
+				"skuMirrorPercent"
+			],
+			[
+				"searc",
+				"searchCity"
+			],
+			[
+				"search",
+				"searchCity"
+			],
+			[
+				"alt",
+				"AltGraph"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"findEquiva",
+				"findEquivalenceForProduct"
+			],
+			[
+				"equi",
+				"equivalences"
+			],
+			[
+				"equiv",
+				"equivalenceCode"
+			],
+			[
+				"codigo",
+				"codigoArticulo"
+			],
+			[
+				"quer",
+				"queryParams"
+			],
+			[
+				"client",
+				"clientBranch"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Hola mundoa</title>\n</head>\n<body>\n  <h1>Ejemplo de Repositorio con GIT</h1>\n  <hr>\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-xs-s6\">\n        GIT\n        <img src=\"\" alt=\"\" class=\"img-responsive\">\n      </div>\n      <div class=\"col-xs-s6\">\n        \n      </div>\n    </div>\n  </div>\n</body>\n</html>",
+			"file": "pagina.html",
+			"file_size": 730,
+			"file_write_time": 131111766875646824,
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 349.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/crocha/Escritorio/github/morsa-ecommerce/server.js",
+		"/home/crocha/Escritorio/github/intranet-api/.gitignore",
+		"/home/crocha/Escritorio/github/taller-celulares-api/useCases/serviceCenter/updateSparePartsStock.js",
+		"/home/crocha/Escritorio/github/intranet-api/server/model-config.json",
+		"/home/crocha/Escritorio/github/taller-celulares-api/useCases/clients/createClient.js",
+		"/home/crocha/Escritorio/github/taller-celulares-api/loopback/remoteMethods/clients/createClient.js",
+		"/home/crocha/Escritorio/github/intranet-api/useCases/apps/setPermissions.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/queries/controllers/invoices.client.controller.js",
+		"/home/crocha/Escritorio/github/intranet-api/loopback/models/permissions-area.js",
+		"/home/crocha/Escritorio/github/taller-celulares-api/loopback/remoteMethods/transferControl/receiveTransferControl.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/app/controllers/users.server.controller.js",
+		"/home/crocha/Escritorio/github/intranet-api/loopback/models/permissions-area.json",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/services/insert-app.client.service.js",
+		"/home/crocha/Escritorio/github/taller-celulares/public/modules/catalogs/services/models.client.service.js",
+		"/home/crocha/Escritorio/github/taller-celulares/public/modules/catalogs/services/reception-centers.client.service.js",
+		"/home/crocha/Escritorio/github/intranet-web/app/views/layout.server.view.html",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/controllers/area-permissions.client.controller.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/services/Area-permission.client.service.js",
+		"/home/crocha/Escritorio/github/intranet-api/loopback/remoteMethods/apps/insertApp.js",
+		"/home/crocha/Escritorio/github/taller-celulares-api/loopback/models/client.js",
+		"/home/crocha/Escritorio/github/taller-celulares-api/loopback/models/cellphone-model.js",
+		"/home/crocha/Escritorio/github/roga/.env",
+		"/home/crocha/Escritorio/github/roga/server.js",
+		"/home/crocha/Escritorio/github/roga/public/config.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/css/Area-permissions.css",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/views/area-permission.client.view.html",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/services/area-permission.client.service.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/config/permissions.client.routes.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/queries/views/statement-of-account.client.view.html",
+		"/home/crocha/Escritorio/github/taller-celulares/public/modules/inventory/services/inventory-finder.client.service.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/services/app-finder.client.service.js",
+		"/home/crocha/Escritorio/github/roga/public/modules/core/directives/paginator.client.directive.js",
+		"/home/crocha/Escritorio/github/roga/public/modules/catalogs/views/zone.client.view.html",
+		"/home/crocha/Escritorio/github/roga/public/modules/catalogs/controllers/zone-list.client.controller.js",
+		"/home/crocha/Escritorio/github/intranet-web/config/env/all.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/config.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/directives/permissions.client.directive.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/services/permissions.client.service.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/permissions/permissions.client.module.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/services/alerts.client.service.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/views/alerts.client.view.html",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/directives/alerts.client.directive.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/css/alerts.css",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/views/home.client.view.html",
+		"/home/crocha/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/crocha/Escritorio/github/intranet-web/bower.json",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/directives/news.client.directive.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/controllers/alerts.client.controller.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/news/controllers/news-view.client.controller.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/news/css/news-view.css",
+		"/home/crocha/Escritorio/github/intranet-api/server/models/alert.json",
+		"/home/crocha/Escritorio/github/intranet-api/loopback/models/alerts.json",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/news/views/news-view.client.view.html",
+		"/home/crocha/Escritorio/github/intranet-api/common/models/alerts.json",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/views/prueba.clien.view.html",
+		"/home/crocha/Escritorio/loading.gif",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/news/views/news-main.client.view.html",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/directives/topbar.client.directive.js",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/css/menu-side-nav.css",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/views/topbar.client.view.html",
+		"/home/crocha/Escritorio/github/intranet-web/public/modules/core/controllers/sidenav.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/modals/views/seasonal.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/modals/controllers/seasonal.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/supplier-data.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/modals/controllers/dismiss-season-confirmation.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/controllers/general-data.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/modals/views/dismiss-season-confirmation.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/general-data.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/modals/controllers/justify-change.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/directives/only-positive-with-two-decimals.client.directive.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/controllers/price-sale.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/controllers/colors.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/celphones.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/controllers/celphones.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/price-sale.clent.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/sizes.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/controllers/supplier-data.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/services.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/colors.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/directives/input-text-validations.client.directive.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/info-store-cellar.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/directives/text-validation-input.client.directive.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/th-multiplo-input.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/input-text-validation.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/directives/th-multiplo-input.client.directive.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/css/input-text-validation-directive.css",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/input-text-validations.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/views/partials/color-row.client.view.html",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/directives/color-row.client.directive.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/controllers/cellphone-validations.client.controller.js",
+		"/home/crocha/Escritorio/github/alta-sku/public/modules/catalogs/controllers/services.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-api/queries/productEquivalences.js",
+		"/home/crocha/Escritorio/github/morsa-api/queries/findEquivalencesForDetailLine.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/services/orders-api.client.service.js",
+		"/home/crocha/Escritorio/github/morsa-api/queries/findEquivalences.js",
+		"/home/crocha/Escritorio/github/morsa-api/common/models/shopping-cart.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/catalogs/services/vazlo-catalog-api.client.service.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/core/services/shopping-cart.client.service.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/config.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/views/product-search-widget.client.view.html",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/controllers/order.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/directives/product-search-widget.client.directive.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/controllers/product-quantity-dialog.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/config/orders.client.routes.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/views/order.client.view.html",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/controllers/order-agent.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/sales/controllers/order.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/services/agents-api.client.service.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/queries/controllers/invoices-agent.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/queries/controllers/orders-agent.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/queries/controllers/orders.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/queries/views/invoices-agent.client.view.html",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/gifts/controllers/gifts-client.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/views/order-header-agent.client.view.html",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/controllers/offers.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/core/config/core.client.routes.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/controllers/kits-dialog-agent.client.controller.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/lib/angular-multi-select/isteven-multi-select.js",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/orders/views/order-header.client.view.html",
+		"/home/crocha/Escritorio/github/morsa-ecommerce/public/modules/catalogs/controllers/morsa-catalog.client.controller.js",
+		"/home/crocha/Escritorio/github/mean/mean/bower.json",
+		"/home/crocha/Escritorio/github/mean/mean/config/env/all.js",
+		"/home/crocha/Escritorio/github/mean/mean/public/config.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/crocha/Escritorio/github/taller-celulares-api",
+			"/home/crocha/Escritorio/github/morsa-ecommerce",
+			"/home/crocha/Escritorio/github/intranet-web",
+			"/home/crocha/Escritorio/github/alta-sku",
+			"/home/crocha/Escritorio/github/alta-sku/",
+			"/home/crocha/Escritorio/github/alta-sku/public",
+			"/home/crocha/Escritorio/github/alta-sku/",
+			"/home/crocha/Escritorio/github/morsa-ecommerce/",
+			"/home/crocha/Escritorio/github/morsa-api/",
+			"/home/crocha/Escritorio/github/morsa-ecommerce/public",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"this.db",
+			"areaId",
+			"this.newpermission",
+			"this.new",
+			"addOr",
+			"newPermissions",
+			"_.",
+			"this.db",
+			"this.bd.",
+			"console",
+			"this.areaP",
+			"areapermi",
+			"areaper",
+			"addAppToArea",
+			"console",
+			"client",
+			"Client",
+			"client",
+			"console",
+			"client",
+			"apps",
+			"verifyArea",
+			"permission",
+			"clientAppsIds",
+			"verifyA",
+			"client",
+			"insertApp",
+			"createPermission",
+			"require('lodash');",
+			"format",
+			"_verifyApp",
+			"findById",
+			"find(",
+			"fetch",
+			"promise",
+			"beginTransaction",
+			"this.db",
+			"saveClient",
+			"CreateClient",
+			"create",
+			".",
+			"createClient",
+			"ng-rep",
+			"PAGE_sIZE",
+			"arreglo",
+			"inventoryFilter",
+			"defaultFilter",
+			"fetchinventory",
+			"inventoryFilter",
+			"pagi",
+			"getAlertHeigth",
+			"messageNumber",
+			"message",
+			"containerHeigth",
+			"message-container",
+			"holi",
+			"maxHeigth",
+			"holi",
+			"scope.news",
+			"query",
+			"iframe",
+			"patas",
+			"tool",
+			"nav",
+			"remove-backdrop",
+			"back",
+			"color",
+			"models.supplierDescription",
+			"nput ng-model=\"models.supplierDescription",
+			"NOTIE_ALERT_TYPES",
+			"close",
+			"SeasonF",
+			"dissmissSeason",
+			"seasonForm",
+			"dissmissSeason",
+			"dismiss",
+			"generalDataController",
+			"SelectSkuSeasonals",
+			"GeneralDataController",
+			"seasonal",
+			"models.",
+			"DismissSeasonConfirmationController",
+			"SeasonalController",
+			"ng-change",
+			"uibmodal",
+			"selectSkuSeasonals",
+			"DismissSeasonConfirmationController",
+			"SeasonalController",
+			"selectskuseasonals",
+			"selectsku",
+			"dissmissSeason",
+			"selectSkuSeasonals",
+			"ng-change",
+			"selectSkuSeasonals",
+			"ng-change",
+			"sku",
+			"close()",
+			"controller",
+			"selectSkuSeasonals",
+			"dissmissSeason",
+			"JustifyChangeController",
+			"closeModal()",
+			"closeModa()",
+			"close",
+			"selectSkuSeasonals",
+			"dissmissSeason",
+			"selectSkuSeasonals",
+			"modal-dialog",
+			"console.log",
+			"modal-dialog",
+			"compra dir",
+			"technologies",
+			"text-validate-input",
+			"models",
+			"text-validate-input",
+			"text-va",
+			"models",
+			"ext-validate-input",
+			"models",
+			"proveedor ad",
+			"concepto",
+			"text",
+			"checkbox",
+			"scope",
+			"frente",
+			"Fondo",
+			"frente"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"getCurrentPermissions",
+			"currentPermissions",
+			"setPermissions",
+			"setPermission",
+			"insertApp",
+			"$scope.paginatorOptions.pageSize",
+			"app",
+			"isMarqueeEnabled",
+			"alertHeigth",
+			"alert-message",
+			"containerHeigth"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pagina.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Verano.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Escritorio/github/sublimeProjects/intranet-web.sublime-project"
+			],
+			[
+				"intra",
+				"~/Escritorio/github/sublimeProjects/intranet-web.sublime-project"
+			]
+		],
+		"width": 285.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
